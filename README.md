@@ -2,7 +2,7 @@
 
 ## Introduction
 
-OpenDofus is a wiki about programming for Dofus 2.0  
+OpenDofus est un wiki sur la personnalisation de Dofus 2.x  
 Rendez-vous dans la section [Wiki](https://github.com/LuaxY/OpenDofus/wiki) pour commencer !
 
 ## Comment contribuer ?
