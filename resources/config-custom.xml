@@ -10,11 +10,11 @@
 
     <!-- Affiche la fenêtre listant les événements du jeu
         Value: true, false -->
-    <entry key="dev.auto.display.eventUtil">true</entry>
+    <entry key="dev.auto.display.eventUtil">false</entry>
 
     <!-- Affiche l'utilitaire pour créer ou jouer des scripts Lua
         Value: true, false -->
-    <entry key="dev.auto.display.luaUtil">true</entry>
+    <entry key="dev.auto.display.luaUtil">false</entry>
 
     <!-- Activation de la console
         Value: true, false -->
