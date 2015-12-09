@@ -30,7 +30,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 
 ## Comment contribuer ?
 
-La modification du wiki est réserver aux contributeurs, tout le monde peu devenir contributeur. Pour cela, créer votre demande dans la section [Issues](https://github.com/OpenDofus/wiki/issues), avec le label "Contribution".
+Vous pouvez contribuer au wiki en créant un fork de celui-ci. Modifiez ce que vous souhaitez améliorer puis créez un Pull Request vers ce dépot. Les Pull Request seront ensuite relus et valider par les contributeurs direct du projet.
 
 ## Questions et erreurs
 
