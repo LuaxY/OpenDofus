@@ -5,7 +5,7 @@
 OpenDofus est un wiki sur la personnalisation de Dofus 2.x  
 Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 
-Sommaire
+## Sommaire
 
 [Accueil](pages/Home.md)
 
