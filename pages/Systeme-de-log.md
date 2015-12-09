@@ -7,9 +7,9 @@ Voici les différents sortie des log et comment y accéder/lire.
 Le rapport HTML est le plus simple à obtenir, il suffit juste de créer un fichier (vide) nommer `debug.txt` à la racine du jeu (où ce trouve Dofus.exe).
 Après il suffit simplement de presser la touche F11 et de sauvegarde le rapport.
 
-![Save HTML report](https://github.com/LuaxY/OpenDofus/blob/master/resources/log/log-html-save.png)
+![Save HTML report](../resources/log/log-html-save.png)
 
-Voir le résultat : [cliquez ici](https://github.com/LuaxY/OpenDofus/blob/master/resources/log/log-html-report.png)
+Voir le résultat : [cliquez ici](../resources/log/log-html-report.png)
 
 Liste des informations fournis :
 
@@ -83,12 +83,12 @@ Live Logger un est programme créer par Luax permettant d'obtenir les logs en di
 
 Téléchargez [Dofus Live Logger](https://github.com/LuaxY/Dofus-Live-Logger/releases), remplacez le fichier `log4as.xml` dans votre client et lancez l'exécutable `NetworkInspector.exe`.
 
-Rendez-vous sur la page d'affichage des logs ([cliquez ici](http://yann.voidmx.net/logger.html)) et cliquez sur connexion, puis lancez Dofus.
+Rendez-vous sur la page d'affichage des logs ([cliquez ici](https://yann.voidmx.net/logger.html)) et cliquez sur connexion, puis lancez Dofus.
 
 Si vous avez correctement suivis la procédure, les deux élément sur le logiciel passe au vert
 
-![Live Logger Server](https://github.com/LuaxY/OpenDofus/blob/master/resources/log/log-live-server.png)
+![Live Logger Server](../resources/log/log-live-server.png)
 
 Et vous recevrez en live les logs de Dofus sur la page web, même en cas de crash de celui-ci.
 
-Voir le résultat : [cliquez ici](https://github.com/LuaxY/OpenDofus/blob/master/resources/log/log-live-web.png)
+Voir le résultat : [cliquez ici](../resources/log/log-live-web.png)

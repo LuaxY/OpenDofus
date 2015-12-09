@@ -1,4 +1,3 @@
-Le mode développement débloque les outils suivants :
 
 - Une interface de contrôle affichant les FPS et performances du client, ainsi que des raccourcis pour ouvrir les différentes consoles.
 - Affichage de la console permettant d'exécuter un certain nombre de commandes telles que le déchargement d'interface ou encore le rechargement d'un module (ouverture via Ctrl + ² par défaut ou /console dans le chat).
@@ -14,11 +13,11 @@ Pour le débloquer il suffit d'ajouter une ligne au fichier de configuration de 
 <entry key="boo">true</entry>
 ```
 
-config-custom.xml complet et commenté: [cliquez ici](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/config-custom.xml)
+config-custom.xml complet et commenté: [cliquez ici](../resources/dev/config-custom.xml)
 
 ## Interface de contrôle
 
-![Control UI](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-control.png)
+![Control UI](../resources/dev/dev-control.png)
 
 Cette interface affiche plusieurs informations utiles : 
 - Les FPS actuels du client Dofus.
@@ -29,15 +28,15 @@ Les trois petites icônes sur la droite permettent d'ouvrir la console, la fenê
 
 ## Console
 
-![Console UI](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-console.png)
+![Console UI](../resources/dev/dev-console.png)
 
 La console vous permet de taper divers commandes de debug. Tapez la commande /help pour en avoir la liste (Chaque commande doit être précédée par le caractère `/` autrement la commande sera envoyer au serveur). 
 
-Liste compète des commandes : [cliquez ici](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/help.md)
+Liste compète des commandes : [cliquez ici](../resources/dev/help.md)
 
 ## Fenêtre de log
 
-![Log Event](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-log.png)
+![Log Event](../resources/dev/dev-log.png)
 
 La fenêtre de log permet d'afficher des informations importantes sur le comportement du client et vous permet aussi d'y afficher vous même certaines informations.
 
@@ -124,11 +123,11 @@ Les évènements d'interface sont affichés en vert, ils indiquent les manipulat
               - target : btn_items
 ```
 
-Pour obtenir plus de détails sur les logs, rendez vous sur la page [Système de log](https://github.com/LuaxY/OpenDofus/wiki/Syst%C3%A8me-de-log).
+Pour obtenir plus de détails sur les logs, rendez vous sur la page [Système de log](Systeme-de-log.md).
 
 ## Inspecteur d'éléments
 
-![UI Inspector](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-inspector.png)
+![UI Inspector](../resources/dev/dev-inspector.png)
 
 L'inspecteur d'éléments permet d'obtenir des informations sur l'élément ou l'entité ciblé comme par exemple un joueur,un PNJ, un montre, un objet interactif (porte, Zaap, poubelle etc...).
 
@@ -136,13 +135,13 @@ Cet utilitaire ce lance via la commande `/uiinspector` depuis la console (même 
 
 ## Scripts lua
 
-![Lua](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-lua.png)
+![Lua](../resources/dev/dev-lua.png)
 
-La fenêtre permet d'ouvrir et exécuter des scripts lua, une section lui est consacrer, [cliquez ici](https://github.com/LuaxY/OpenDofus/wiki/Scripts-:-Lua)
+La fenêtre permet d'ouvrir et exécuter des scripts lua, une section lui est consacrer, [cliquez ici](Scripts-Lua.md)
 
 ## FPS Manager
 
-![FPS Manager](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-fps-manager.png)
+![FPS Manager](../resources/dev/dev-fps-manager.png)
 
 Le FPS Manager permet d'afficher le nombre d'élément présent à l'instant T sur le client ainsi que des graphique détaillant la consommation mémoire du client.
 

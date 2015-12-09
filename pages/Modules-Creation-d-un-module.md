@@ -7,7 +7,7 @@ Un module Dofus est composé des éléments suivant :
  - Un dossier `ui` contenant les fichiers ActionScript `.as` qui compose l'interface graphique
 - Un fichier flash `.swf`, résultat de la compilation du module
 
-![Module Strucutre](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/module-strcutre.png)
+![Module Strucutre](../resources/modules/module-strcutre.png)
 
 Le but est donc de créer tous ces fichiers avant de pouvoir admirer notre nouvelle interface.
 
@@ -159,7 +159,7 @@ Une fois les besoins en composants "visibles" listés, vous pouvez faire un rapi
 
 Ce croquis permet aussi de voir plus facilement les conteneurs qu'il va nous falloir. En effet, ils vont être d'une grande aide pour déplacer ou masquer un ensemble de composants. Par exemple, ici, nous voulons pouvoir masquer l'image de fond, les deux textes et le bouton de fermeture en même temps, il faudra donc les mettre tous les quatre dans un conteneur.
 
-![Module containers](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/module-container.png)
+![Module containers](../resources/modules/module-container.png)
 
 Notons que l'interface est forcément englobée dans un conteneur principal.  
 A présent que tout est bien clair dans notre esprit, il est temps de repasser au fichier `.xml` de l'interface.
@@ -205,7 +205,7 @@ Maintenant qu'on est à l'intérieur du second conteneur, on va ajouter les comp
 
 On commence par la texture de fond, en fixant sa taille (on pourra très facilement la modifier si ça ne convenait pas, n'hésitez pas à faire des essais). On indique ensuite le chemin vers l'image que l'on souhaite utiliser : dans notre cas, c'est le fond de base, tout simple, des interfaces (et si jamais vous voulez mettre un fond de base avec bandeau sombre sous le titre, pensez à l'asset `tx_generalBackgroundWithTitle`). Comme vu dans la documentation des composants `autoGrid` permet un redimensionnement de l'image sans étirer les coins, il ne faut donc pas l'oublier pour les textures de fond.
 
-![Module UI1](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/module-ui1.png)
+![Module UI1](../resources/modules/module-ui1.png)
 
 ```xml
             <Label>
@@ -237,7 +237,7 @@ On commence par la texture de fond, en fixant sa taille (on pourra très facilem
 
 Au dessus de notre texture de fond, on place les labels. Lorsqu'on utilise le css `normal.css`, la meilleure hauteur pour un label est de 20. Mettre plus de 20 est inutile, et à moins de 20, le texte sera tronqué.
 
-![Module UI2](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/module-ui2.png)
+![Module UI2](../resources/modules/module-ui2.png)
 
 ```xml
             <iconButton name="btn_close">
@@ -255,7 +255,7 @@ Au dessus de notre texture de fond, on place les labels. Lorsqu'on utilise le cs
 
 On ajoute le bouton de fermeture (qui est en réalité un bouton pour masquer le second conteneur et non pour fermer l'interface), en fixant son coin (point) en haut à droite au coin (`relativePoint`) en haut à droite du conteneur parent, c'est-à-dire ce second conteneur, qui lui-même a pris la taille de la texture de fond. 
 
-![Module UI3](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/module-ui3.png)
+![Module UI3](../resources/modules/module-ui3.png)
 
 ```xml
        </Container>

@@ -10,13 +10,13 @@ Vous pouvez apprendre les base du langage lua en suivant ces deux liens :
 ## Pré-requis
 
 - [Client bêta](http://forum.dofus.com/fr/1557-discussions-generales/1906976-telechargement-client-beta)
-- [Mode développement](https://github.com/LuaxY/OpenDofus/wiki/Mode-d%C3%A9veloppement)
+- [Mode développement](Mode-developpement.md)
 
 ## Scripts Lua
 
 ### SDK
 
-La première chose à faire est de télécharger le SDK pour les modules : [lien vers la dernière version](https://github.com/LuaxY/OpenDofus/releases/tag/sdk-lua)
+La première chose à faire est de télécharger le SDK pour les modules : [lien vers la dernière version](https://github.com/OpenDofus/wiki/releases/tag/sdk-lua)
 
 Le SDK contient trois choses actuellement :
 
@@ -29,11 +29,11 @@ Le SDK contient trois choses actuellement :
 Il existe deux manière de lancer un script Lua :
 
 - Utiliser la commande `/lua {path/to/script.lua}` dans la console
-- Utiliser la fenêtre dédié aux script Lua (`/luarecorder` dans la console), [en savoir plus](https://github.com/LuaxY/OpenDofus/wiki/Mode-d%C3%A9veloppement)
+- Utiliser la fenêtre dédié aux script Lua (`/luarecorder` dans la console), [en savoir plus](Mode-developpement.md)
 
 ### LuaRecorder
 
-![Lua](https://github.com/LuaxY/OpenDofus/blob/master/resources/dev/dev-lua.png)
+![Lua](../resources/dev/dev-lua.png)
 
 Pour vous aider à créer des scripts facilement, le LuaRecorder est un petit utilitaire qui va convertir les actions que vous faites dans le client directement Lua. 
 Pour l'afficher, utilisez la commande `/luarecorder` dans la console ou modifiez le fichier de configuration secondaire pour l'afficher par défaut au lancement du client 

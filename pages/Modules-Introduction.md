@@ -9,13 +9,13 @@ Avant de vous lancer dans la création de module, il faut savoir qu'il faut imp�
 - [Adobe AIR](https://get.adobe.com/air/?loc=fr)
 - [Client bêta](http://forum.dofus.com/fr/1557-discussions-generales/1906976-telechargement-client-beta)
 - [FlashDevelop](http://www.flashdevelop.org/)
-- [Mode développement](https://github.com/LuaxY/OpenDofus/wiki/Mode-d%C3%A9veloppement)
+- [Mode développement](/Mode-developpement.md)
 
 ## Environnement de travail
 
 ### SDK
 
-La première chose à faire est de télécharger le SDK pour les modules : [lien vers la dernière version](https://github.com/LuaxY/OpenDofus/releases/tag/sdk-module)
+La première chose à faire est de télécharger le SDK pour les modules : [lien vers la dernière version](https://github.com/OpenDofus/wiki/releases/tag/sdk-module)
 
 Le SDK contient les éléments suivants:
 
@@ -37,13 +37,13 @@ Il est nécessaire d'installer certains programmes pour créer puis compiler des
 
 Il faut commencer par télécharger puis installer [FlashDevelop](http://www.flashdevelop.org/).
  
-Ouvrez ensuite FlashDevelop puis accéder au répertoire des fichier de configuration via le menu **Tools** puis **User Config Files** ([image](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/flashdevelop-menu-settings.png)), cela ouvre l'explorateur de fichiers dans le répertoire de personnalisation de FlashDevelop.
+Ouvrez ensuite FlashDevelop puis accéder au répertoire des fichier de configuration via le menu **Tools** puis **User Config Files** ([image](../resources/modules/flashdevelop-menu-settings.png)), cela ouvre l'explorateur de fichiers dans le répertoire de personnalisation de FlashDevelop.
 
 Décompressez ensuite le dossier `000 ActionScript 3 - DOFUS Module Project` présent dans `dofus-flashdevelop-{version}.zip` dans le répertoire **Project**.
 
 Vous pouvez vérifier que les projet de type "DOFUS Module Project" soit présent lors de la création d'un nouveau projet
 
-![New project](https://github.com/LuaxY/OpenDofus/blob/master/resources/modules/flashdevelop-new-module.png)
+![New project](../resources/modules/flashdevelop-new-module.png)
 
 Le nom du module ne doit pas comporter d'espace ni de caractères spéciaux et doit commencer par une majuscule. Le nom du package doit être laissé vide. 
 
@@ -53,7 +53,7 @@ Le module est maintenant créé et peut être compilé.
 
 **Compilation**
 
-Le menu Project puis Build Project (ou la touche F8) permet de compiler un module. Si la compilation est un succès, le projet FlashDevelop peut ensuite être copié dans son intégralité dans le répertoire des modules de Dofus (répertoire **Dofus/app/ui**) et fonctionnera (voir [Activer un module](https://github.com/LuaxY/OpenDofus/wiki/Modules-:-Activer-un-module)).
+Le menu Project puis Build Project (ou la touche F8) permet de compiler un module. Si la compilation est un succès, le projet FlashDevelop peut ensuite être copié dans son intégralité dans le répertoire des modules de Dofus (répertoire **Dofus/app/ui**) et fonctionnera (voir [Activer un module](Modules-Activer-un-module.md)).
 
 ## Ligne de commande
 

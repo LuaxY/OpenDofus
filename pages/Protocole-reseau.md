@@ -29,7 +29,6 @@ C'est une suite de données inscrites en binaire.
 Pour vous donner un exemple je vais prendre le contenue du paquet : Sequence Start Message
 
 Ce paquet permet de dire au client que l'on commence une séquence à jouer avec plusieurs actions.
-Il contient deux variables : **SequenceType** et **AuthorId**. On va donc devoir sérialiser les variables en binaire pour le mettre dans le message comme suite : 
 
 Code en VB : 
 >         Public Overrides Sub serialize(Output As BigEndianWriter)
