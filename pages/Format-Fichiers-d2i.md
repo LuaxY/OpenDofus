@@ -14,7 +14,7 @@ Le format de fichier d2i est un format créer par Ankama pour qui à pour but de s
     * Le pointeur diacritique (int) (non représenté sur le schema)
 
 note : dans la représentation ci-dessous il est considéré qu'aucunes des données ne comporte de chaines diacritiques
-![structure](../resources/format-fichiers/d2i/structure.png)
+![structure](../resources/format-fichiers/d2i/d2i-structure.png)
 
 ### L'indexe des indexes :
 
