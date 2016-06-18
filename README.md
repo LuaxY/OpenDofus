@@ -14,7 +14,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 * [Protocole réseau](pages/Protocole-reseau.md)
 * Format fichiers
   * d2o
-  * d2i
+  * [d2i](pages/Format-Fichiers-swl.md)
   * d2p
   * dlm
   * [swl](pages/Format-Fichiers-swl.md)
