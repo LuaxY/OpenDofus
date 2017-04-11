@@ -9,10 +9,10 @@ Description: Ce message est envoyé au client dès le premier signe a sa connect
 
 <p>
 
-* RequiredVersion (Int)
+* RequiredVersion (Int) <p>
 Description: Represente la version minimum du protocole du serveur, le client doit posséder la même afin de communiquer correctement avec lui.
 
-* CurrentVersion (Int)
+* CurrentVersion (Int)<p>
 Description: Représente la version actuelle du protocole serveur, en principe, elle correspond a celui du client.
 
 
