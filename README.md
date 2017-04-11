@@ -27,6 +27,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 * Scripts
  * API AS3
  * [Lua](pages/Scripts-Lua.md)
+ * [Les Messages Dofus 2.0+](pages/messages/Messages.md)
 
 ## Comment contribuer ?
 
