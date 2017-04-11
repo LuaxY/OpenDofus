@@ -12,7 +12,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 * [Mode développement](pages/Mode-developpement.md)
 * [Système de log](pages/Systeme-de-log.md)
 * [Protocole réseau](pages/Protocole-reseau.md)
-* [Messages Dofus 2.0+](pages/messages/Messages.md)
+* [Messages du protocole](pages/messages/Messages.md)
 * Format fichiers
   * d2o
   * [d2i](pages/Format-Fichiers-d2i.md)
