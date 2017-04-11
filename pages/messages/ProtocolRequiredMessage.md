@@ -1,8 +1,8 @@
 ## ProtocolRequiredMessage
 <p>
-Id: 1
-<p>
-Context: Authentification
+Id: 1.
+
+Context: Authentification.
 <p>
 
 Description: Ce message est envoyé au client lors de sa connexion il contient deux paramètres:
