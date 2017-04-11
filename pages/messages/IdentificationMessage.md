@@ -9,7 +9,7 @@ Description: Ce message est envoyé au serveur lorsque le client rentre ses iden
 
 <p>
 
-* Autoconnect (Bool)
+## * Autoconnect (Bool)
 Description: Le client passe t-il par la selection de serveur ou se connecte t-il directement au dernier serveur joué.
 
 * UseCertificate (Bool)
