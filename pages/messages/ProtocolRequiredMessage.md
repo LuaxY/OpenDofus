@@ -3,7 +3,7 @@
 Id: 1.
 
 Context: Authentification.
-</b>
+</b><p>
 Description: Ce message est envoyé au client lors de sa connexion il contient deux paramètres:
 
 
