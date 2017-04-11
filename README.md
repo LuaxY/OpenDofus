@@ -30,7 +30,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 
 ## Comment contribuer ?
 
-Vous pouvez contribuer au wiki en créant un fork de celui-ci. Modifiez ce que vous souhaitez améliorer puis créez un Pull Request vers ce dépot. Les Pull Request seront ensuite relus et validé par les contributeurs direct du projet.
+Vous pouvez contribuer a ce wiki en créant un fork de celui-ci. Modifiez ce que vous souhaitez améliorer puis créez un Pull Request vers ce dépot. Les Pull Request seront ensuite relus et validé par les contributeurs direct du projet.
 
 ## Questions et erreurs
 
