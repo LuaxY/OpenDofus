@@ -7,3 +7,4 @@ Cette liste a pour but de détailler le fonctionnement de chacun des message du 
 
 * [ProtocolRequiredMessage](ProtocolRequiredMessage.md)
 * [IdentificationMessage](IdentificationMessage.md)
+* [IdentificationSuccesMessage](IdentificationSuccesMessage.md)
