@@ -17,7 +17,8 @@ Description: Représente la version actuelle du protocole serveur, en principe, 
 
 <p>
 Remarque: Si la version du protocole client est inferieur a la version requise, le client ne pourra pas se connecter au serveur.
-[img]http://i.imgur.com/GwmfFHo.png[/img]
+
+!(http://i.imgur.com/GwmfFHo.png)
 
 
 
