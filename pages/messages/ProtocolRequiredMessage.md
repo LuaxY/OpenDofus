@@ -6,10 +6,10 @@ Description: Ce message est envoyé au client lors de sa connexion il contient d
 
 
 
-* RequiredVersion (Int) 
+## RequiredVersion (Int) 
 Description: Represente la version minimum du protocole du serveur, le client doit posséder la même afin de communiquer correctement avec lui.
 
-* CurrentVersion (Int)
+## CurrentVersion (Int)
 Description: Représente la version actuelle du protocole serveur, en principe, elle correspond a celui du client.
 
 
