@@ -3,9 +3,9 @@
 Id: 1.
 
 Context: Authentification.
-</b><p>
-Description: Ce message est envoyé au client lors de sa connexion il contient deux paramètres:
 
+Description: Ce message est envoyé au client lors de sa connexion il contient deux paramètres:
+</b><p>
 
 
 * RequiredVersion (Int) 
