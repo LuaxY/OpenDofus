@@ -1,9 +1,9 @@
 ## ProtocolRequiredMessage.
 <b>
 Id: 1.<p>
-Contexte: Authentification.<p>
+Contexte: Authentification.<p></b>
 Description: Ce message est envoyé au client lors de sa connexion il contient deux paramètres:
-</b>
+
 
 
 * RequiredVersion (Int) 
