@@ -8,3 +8,4 @@ Cette liste a pour but de détailler le fonctionnement de chacun des message du 
 * [ProtocolRequiredMessage](ProtocolRequiredMessage.md)
 * [IdentificationMessage](IdentificationMessage.md)
 * [IdentificationSuccessMessage](IdentificationSuccessMessage.md)
+* [RawDataMessage](RawDataMessage.md)
