@@ -15,9 +15,9 @@ Code en AS3 (Flash) :
 >         public function Main()
 >         {
 >            super();
->            var conn:* = getDefinitionByName("com.ankamagames.dofus.kernel.net::ConnectionsHandler"); // permet de récuperer la connexion client/server
->            var message:* = new (getDefinitionByName("com.ankamagames.dofus.network.messages.common.basic::BasicPingMessage") as Class)(); // représente un message simple permettant de ping le serveur
->            message.initBasicPingMessage(); // ici, méthode vide car le message ne possède aucun paramètres.
->            conn.getConnection().send(message); // envoit le message au serveur
+>            var conn:* = getDefinitionByName("com.ankamagames.dofus.kernel.net::ConnectionsHandler");
+>            var message:* = new (getDefinitionByName("com.ankamagames.dofus.network.messages.common.basic::BasicPingMessage") as Class)();
+>            message.initBasicPingMessage();
+>            conn.getConnection().send(message); 
 >         }
 
