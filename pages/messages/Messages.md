@@ -9,4 +9,5 @@ Cette liste a pour but de détailler le fonctionnement de chacun des message du 
 * [IdentificationMessage](IdentificationMessage.md)
 * [IdentificationSuccessMessage](IdentificationSuccessMessage.md)
 * [IdentificationFailedMessage](IdentificationFailedMessage.md)
+* [ServersListMessage](ServersListMessage.md)
 * [RawDataMessage](RawDataMessage.md)
