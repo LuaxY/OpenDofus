@@ -1,3 +1,21 @@
+# Arrêt des modules
+
+Message de la part d'Ankama :
+
+```
+Arrêt du système des modules d'interface
+A partir de la version 2.39, les modules tiers d'interface ne fonctionneront plus en Beta et ne seront plus supportés. 
+
+Nous avons pris cette décision afin d’améliorer les performances du client de jeu. La couche de sécurité entre les modules et le cœur logique du jeu étant très coûteuse actuellement. C'était à l’origine un sacrifice nécessaire si l'on souhaitait avoir un jour des modules d'interfaces tiers disponibles pour tous. 
+Toutefois il s'est avéré techniquement impossible de correctement contrôler la stabilité de ces modules (comme empêcher des boucles infinies), nous empêchant de pouvoir considérer les mettre à disposition de tous. Au final on se retrouve du coup à brider le client du jeu pour tous pour une fonctionnalité qui ne verra malheureusement jamais vraiment le jour. 
+
+Si cela peut potentiellement poser un problème notamment pour des fansite qui utiliseraient ce système pour exporter des données par exemple, contactez moi par Ankabox pour m’expliquer vos besoins. Nous étudierons ce qui pourrait être fait pour vous aider si possible. 
+
+Merci à tous pour vos contributions sur ce projet.
+```
+
+---
+
 Les modules Dofus permettent de d’enrichir le client avec de nouvelle interface et interaction. Vous allez pouvoir recréer une interface pour par exemple l'amélioration de la gestion de guilde ou même créer un panneau d'administration pour votre serveur.
 
 ## Information
