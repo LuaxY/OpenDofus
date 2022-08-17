@@ -1,4 +1,4 @@
-##La structure
+# La structure
 
 Pour chaque fichier D2O vous aurez toujours (normalement si le fichier n'est pas protégé) 3 bytes à convertir en UTF8 qui vous donneront "D2O" (quelle surprise).
 
