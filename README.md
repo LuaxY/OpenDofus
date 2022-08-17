@@ -1,5 +1,7 @@
 ![OpenDofus](resources/OpenDofus.png)
 
+## Mise à Jour de la documentation d'OPENDOFUS
+
 ## Introduction
 
 OpenDofus est un wiki sur la personnalisation de Dofus 2.x  
