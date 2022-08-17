@@ -72,7 +72,6 @@ Comment elle marche ?
 
 Elle sert en fait à effectuer une recherche plus rapidement, elle groupe donc les données qui possèdent une même valeur pour un champ donné.
 
-Exemple :
 
 J'ai une structure de donnée Item composée de 2 champs : Nom et Niveau
 J'ai 3 entrées dans mon fichier :
