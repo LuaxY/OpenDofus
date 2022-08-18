@@ -1,5 +1,8 @@
 ![OpenDofus](resources/OpenDofus.png)
 
+## Mise à Jour de la documentation d'OPENDOFUS
+
+
 ## Introduction
 
 OpenDofus est un wiki sur la personnalisation de Dofus 2.x  
@@ -13,13 +16,14 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 * [Système de log](pages/Systeme-de-log.md)
 * [Protocole réseau](pages/Protocole-reseau.md)
 * [Messages du protocole](pages/messages/Messages.md)
-* Format fichiers
-  * d2o
+* [Format fichiers](pages/Format-fichiers.md)
+  * [d2o](pages/Format-Fichiers-d2o.md)
   * [d2i](pages/Format-Fichiers-d2i.md)
   * d2p
-  * dlm
+  * [dlm](pages/Format-Fichiers-dlm.md)
   * [swl](pages/Format-Fichiers-swl.md)
   * [ele](pages/Format-Fichiers-ele.md)
+* [Décompiler les fichiers](pages/Decompiler.md)
 * [Modules](pages/Modules-Introduction.md)
  * [Création d'un module](pages/Modules-Creation-d-un-module.md)
  * [Création d'une interface](pages/Modules-Creation-d-une-interface.md)
