@@ -9,6 +9,8 @@ Cependant il y'a certaines exceptions ou d'anciennes cartes persistent dans les 
 Apres avoir décompiler un .dlm nous nous retrouvons avec un .json regardons de plus près sa structure : 
 
 ![structure](../resources/dev/dlm-struct.PNG)
+
+
 Nous ne passerons pas en détail sur toute la structure, mais les choses principales sont : 
 
 Le mapID : 144692 pour cette map
