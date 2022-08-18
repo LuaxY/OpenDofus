@@ -19,7 +19,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
   * [d2o](pages/Format-Fichiers-d2o.md)
   * [d2i](pages/Format-Fichiers-d2i.md)
   * d2p
-  * dlm
+  * [dlm](pages/Format-Fichiers-dlm.md)
   * [swl](pages/Format-Fichiers-swl.md)
   * [ele](pages/Format-Fichiers-ele.md)
 * [Décompiler les fichiers](pages/Decompiler.md)
