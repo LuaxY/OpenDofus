@@ -17,4 +17,4 @@ Le Top, Bottom, Left, RightNeighbourID : Qui correspond aux cartes qui se situen
 Le UseReverb : Qui servira aux effets sonores de reverberations. 
 Le LayerCount : Nombre de Layer sur la carte (systeme de calque style photoshop).
 Les cells: Les cellules en français 
-![cells](../resources/dev/CellMapping.PNG)
+![cells](../resources/dev/Cellmapping.PNG)
