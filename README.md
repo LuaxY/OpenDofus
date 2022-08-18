@@ -2,6 +2,8 @@
 
 ## Mise à Jour de la documentation d'OPENDOFUS
 
+Si vous souhaitez faire des modifications / ajouter de nouvelles choses, n'hésitez pas à faire un pull 
+
 ## Introduction
 
 OpenDofus est un wiki sur la personnalisation de Dofus 2.x  
