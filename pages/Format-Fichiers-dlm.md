@@ -24,3 +24,13 @@ Nous ne passerons pas en détail sur toute la structure, mais les choses princip
 ## Voyons maintenant la structure des cellules 
 
 ![cells-struct](../resources/dev/layer-dlm.PNG)
+
+Ici simplement nous pouvons voir le nombre d'element sur ce layer, le type d'element (Graphical pour la representation de sprite) l'elementID, qui correspond au sprite, le hue qui permet de gerer la couleur, le type d'ombre, l'offset sert pour le placement dans la carte.
+
+![cells-collision](../resources/dev/cell-collision.PNG)
+
+## Pour finir nous regardons comment Ankama gère les collisions et les zones "non-marchables", 
+
+#### Le mov : Boolean pour savoir si on peut marcher ou non dessus.
+#### Le nonWalkableDuringFight et nonWalkableDuringRP : définissent si on peut marcher dessus en combat et si on peut marcher dessus en mode "libre"
+#### Le HavenBagCell : Permet d'ajouter ou non des objets en temps réel sur cette case.
