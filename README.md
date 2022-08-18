@@ -22,6 +22,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
   * dlm
   * [swl](pages/Format-Fichiers-swl.md)
   * [ele](pages/Format-Fichiers-ele.md)
+* [Décompiler les fichiers](pages/Decompiler.md)
 * [Modules](pages/Modules-Introduction.md)
  * [Création d'un module](pages/Modules-Creation-d-un-module.md)
  * [Création d'une interface](pages/Modules-Creation-d-une-interface.md)
