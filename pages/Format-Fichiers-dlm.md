@@ -20,3 +20,7 @@ Nous ne passerons pas en détail sur toute la structure, mais les choses princip
 #### Le LayerCount : Nombre de Layer sur la carte (systeme de calque style photoshop).
 #### Les cells: Les cellules en français 
 ![cells](../resources/dev/Cellmapping.PNG)
+
+## Voyons maintenant la structure des cellules 
+
+![cells-struct](../resources/dev/layer-dlm.PNG)
