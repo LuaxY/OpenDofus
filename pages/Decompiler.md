@@ -1,4 +1,4 @@
-#Decompiler les fichiers..
+# Decompiler les fichiers..
 
 Bien évidemment apres avoir lu cette partie sur les extensions des fichiers, vous vous demandez surement comment il est possible de modifier / lire ces fichiers
 
