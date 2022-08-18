@@ -15,7 +15,7 @@ Rendez-vous dans la section [Wiki](pages/Home.md) pour commencer !
 * [Système de log](pages/Systeme-de-log.md)
 * [Protocole réseau](pages/Protocole-reseau.md)
 * [Messages du protocole](pages/messages/Messages.md)
-* Format fichiers
+* [Format fichiers](pages/messages/Format-fichiers.md)
   * [d2o](pages/Format-Fichiers-d2o.md)
   * [d2i](pages/Format-Fichiers-d2i.md)
   * d2p
